@@ -1,0 +1,5 @@
+Flask==0.11.1
+gunicorn==19.6.0
+google-cloud
+google-cloud-language
+beautifulsoup4
