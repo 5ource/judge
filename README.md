@@ -17,3 +17,5 @@
     * medium emotions
     * high emotions
     * extreme emotions
+
+* ATTENTION: If greater than 100 words are present in the textbox, the website will take the text inside of the textbox instead of scraping the URL. So if the URL is desired, put a short random text in the text box like "123".
