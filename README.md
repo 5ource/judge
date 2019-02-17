@@ -1,7 +1,7 @@
 # judge
 
-* Google clouds app engine that judges an online article (given its URL) based on its positivity/ngativity and its respective magnitude
-* Still TODO: map magnitude to "bias"
+* Google clouds app engine that judges an online article (given its URL) based on how emotionally charged and opiniated it is VS logically reasoning.
+* Still TODO: determine direction (positive/negative)
 * Instructions to run:
   * open Google Cloud Platform
   * click Activate Cloud Shell icon in upper right 
@@ -16,3 +16,4 @@
     * little emotions
     * medium emotions
     * high emotions
+    * extreme emotions
