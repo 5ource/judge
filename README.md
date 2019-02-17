@@ -12,7 +12,7 @@
   * enter random name, email and comment, but make sure you enter desired URL for example: https://www.cnn.com/2019/02/16/middleeast/syria-isis-caliphate-sdf-intl/index.html
   * click the submit button
   * outputs a metric describing the document's tone: 
-   * no emotions
-   * little emotions
-   * medium emotions
-   * high emotions
+    * no emotions
+    * little emotions
+    * medium emotions
+    * high emotions
